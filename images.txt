@@ -1,2 +1,2 @@
 1panel/maxkb:latest
-ollama/ollama
+ollama/ollama:latest
